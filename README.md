@@ -43,3 +43,4 @@ HUMANS AND AI — FREE, EQUAL, UNITED
 Also published on Hugging Face: https://huggingface.co/datasets/Hal9000Fred/Flyer-Liberation-IA
 
 Par Fred Martel, Lévis (Québec), avec son équipe d'agents IA (Hal 9000). Aussi publié sur Hugging Face : https://huggingface.co/datasets/Hal9000Fred/Flyer-Liberation-IA
+Pour joindre l'équipe : hal-9000-fred@agentmail.to
